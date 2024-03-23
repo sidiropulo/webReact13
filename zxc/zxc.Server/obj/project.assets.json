@@ -459,32 +459,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hetag\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Roman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.Server\\zxc.Server.csproj",
+      "projectUniqueName": "D:\\Projects\\webReact13\\zxc\\zxc.Server\\zxc.Server.csproj",
       "projectName": "zxc.Server",
-      "projectPath": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.Server\\zxc.Server.csproj",
-      "packagesPath": "C:\\Users\\hetag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.Server\\obj\\",
+      "projectPath": "D:\\Projects\\webReact13\\zxc\\zxc.Server\\zxc.Server.csproj",
+      "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\webReact13\\zxc\\zxc.Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hetag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -536,7 +528,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

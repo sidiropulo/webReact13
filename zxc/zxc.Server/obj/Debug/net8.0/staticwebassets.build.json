@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "bvwOvTEHL0H+0/cKsqXpdLBjJIcD74Rd7QYz/l/S7GE=",
+  "Source": "zxc.Server",
+  "BasePath": "_content/zxc.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\webReact13\\zxc\\zxc.client\\zxc.client.esproj",
+      "Version": 2,
+      "Source": "zxc.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
