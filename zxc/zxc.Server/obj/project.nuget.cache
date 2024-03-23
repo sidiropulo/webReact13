@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/HmzNMGmevSXQ2cyvanOQhfFAyqiCWnI+79iej2Wrj1NcyjV/o75BBM25h7Rqub3mf/4XDLcJmN6oiuH0MsIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.Server\\zxc.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hetag\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.3\\microsoft.aspnetcore.spaproxy.8.0.3.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\hetag\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
