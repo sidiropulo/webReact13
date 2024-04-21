@@ -1,6 +1,7 @@
 @zxc.Server_HostAddress = http://localhost:5233
 
-GET {{zxc.Server_HostAddress}}/weatherforecast/
+GET {{zxc.Server_HostAddress}}/cryptoinfo/
 Accept: application/json
+
 
 ###

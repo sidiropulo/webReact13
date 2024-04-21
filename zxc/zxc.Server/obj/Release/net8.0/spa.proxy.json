@@ -1,9 +1,9 @@
 {
 "SpaProxyServer": {
-"ServerUrl": "https://localhost:5173",
+"ServerUrl": "https://localhost:5233",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.Server\\..\\zxc.client",
+"WorkingDirectory": "C:\\Users\\hetag\\Documents\\webReact13\\zxc\\zxc.Server\\..\\zxc.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "IGuZ3gOLHFJXey/o06jZojALlqxgtKJHYVG/Bh/ZZaY=",
+  "Hash": "wxjOFKaMvC7616D+4W/JxYF4Wz1upwyG3YfUnB3vb4U=",
   "Source": "zxc.Server",
   "BasePath": "_content/zxc.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\hetag\\source\\repos\\zxc\\zxc.client\\zxc.client.esproj",
+      "Identity": "C:\\Users\\hetag\\Documents\\webReact13\\zxc\\zxc.client\\zxc.client.esproj",
       "Version": 2,
       "Source": "zxc.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
